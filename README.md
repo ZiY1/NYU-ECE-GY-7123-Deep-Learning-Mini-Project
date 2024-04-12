@@ -19,7 +19,7 @@ The code can be run in Google Colab. The following packages are required:
 - matplotlib.pyplot
 
 ## Report
-Detailed description of the experiments can be found in ```Modified Residual Network for Image Classification.pdf``` also in upload in this repository.
+Detailed description of the experiments can be found in ```Modified Residual Network for Image Classification.pdf``` also uploaded in this repository.
 
 ## Result
 With the model and hyperparameters chosen as described in ```./checkpoint```
