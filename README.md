@@ -26,4 +26,4 @@ With the model and hyperparameters chosen as described in ```./checkpoint```
 | Type    | Accuracy |
 | ------- | -------  |
 | Train   | 99.99%   |
-| Test    | 95.18%   |
+| Test    | 95.25%   |
